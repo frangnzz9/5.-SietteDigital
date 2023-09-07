@@ -1,0 +1,29 @@
+footer{
+    padding: 100px;
+    background-color: nth($clrs , 1 );
+    margin-top: 25px;
+    div{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        h4{
+            font-weight: 700;
+            font-size: 30px;
+            margin-bottom: 30px;
+            color: nth($clrs, 5 );
+            justify-content: center;
+        }
+        li{
+            display: flex;
+            font-size: 20px;
+            justify-content: center;
+            color: nth($clrs, 5 );
+            padding: 10px 0px;
+        }
+    }
+}
+
+footer div li a{
+    text-decoration: none;
+    color: nth($clrs, 5 );
+}

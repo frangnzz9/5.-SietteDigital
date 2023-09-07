@@ -1,0 +1,13 @@
+@import './base/listas';
+
+@import './componentes/header';
+@import './componentes/main';
+@import './componentes/footer';
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;  
+    font-family: 'Poppins', sans-serif;
+}
