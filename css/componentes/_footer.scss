@@ -19,6 +19,9 @@ footer{
             justify-content: center;
             color: nth($clrs, 5 );
             padding: 10px 0px;
+            a:hover{
+                color: nth($clrs, 4 );
+            }
         }
     }
 }
