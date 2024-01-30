@@ -13,7 +13,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 50px;
-  background-color: rgba(0, 0, 0, 0.151);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 .nav-index .links-varios a {
   color: white;
@@ -93,7 +93,7 @@ section h2 {
 
 .evento .img img {
   height: 700px;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .evento a {
